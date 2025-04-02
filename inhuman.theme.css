@@ -1,0 +1,59 @@
+/**
+ * @name inhuman
+ * @author AsteroidNote
+ * @source https://github.com/L-Ratio/OperaGXTheme
+ * @BDEditor OperaGX Theme
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Tektur:wght@100;300;400;500;700&display=swap');
+@import url('https://l-ratio.github.io/OperaGXTheme/release/main.css');
+
+:root {
+  --background: url('https://i.imgur.com/H063BOF.png');
+  --background-behind-appmount: 8,5,14,0;
+  --background-accent-color-1: 0,0,0,0;
+  --accent-color-1: 103,58,183;
+  --accent-color-2: 63,81,181;
+  --border-brightness: 0;
+  --dark-background-color: 2,3,4;
+  --darker-background-color: 0,0,0;
+  --wintitlebar-transparency: 1;
+  --header-transparency: 0.7;
+  --serverlist-transparency: 0.4;
+  --channels-transparency: 0.7;
+  --chat-transparency: 0;
+  --memberlist-transparency: 0.3;
+  --wintitlebar-background-blur: 5px;
+  --header-background-blur: 0px;
+  --serverlist-background-blur: 0px;
+  --channels-background-blur: 0px;
+  --chat-background-blur: 0px;
+  --memberlist-background-blur: 0px;
+  --customFont: Tektur;
+  --codeBlocksCustomFont: Tektur;
+  --fullwhite-font: 250, 253, 255;
+  --normal-font: 201, 203, 206;
+  --normal-hover-font: 212,219,225;
+  --muted-font: 114, 118, 125;
+  --link-text: 0,188,212;
+  --gx-red: 181,32,63 ;
+  --gx-red-2: 181,32,63 ;
+  --gx-yellow: 234, 234, 34  ;
+  --gx-yellow-2: 255, 255, 68 ;
+  --gx-green: 0, 212, 81 ;
+  --gx-green-2: 0, 255, 129 ;
+  --font-in-accent: 0, 0, 0  ;
+  --category-name-transform: unset;
+  --chatbox-transparency: 1;
+  --chatbox-focused-transparency: 1;
+  --other-highlighted-transparency: 1;
+  --other-transparency: 1;
+  --wintitlebar-transparency-color: var(--dark-background-color) ;
+  --wintb-focused-alpha: 1;
+  --wintb-focused-color: var(--darker-background-color);
+  --header-transparency-color: var(--dark-background-color);
+  --serverlist-transparency-color: var(--dark-background-color);
+  --channels-transparency-color: var(--dark-background-color);
+  --chat-transparency-color: var(--dark-background-color);
+  --memberlist-transparency-color: var(--dark-background-color);
+}
