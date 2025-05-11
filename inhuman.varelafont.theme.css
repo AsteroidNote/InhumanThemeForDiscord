@@ -6,6 +6,11 @@
 */
 
 @import url('https://l-ratio.github.io/OperaGXTheme/release/main.css');
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+* {
+  font-family: 'Varela Round', sans-serif !important;
+}
 
 :root {
   --background: url('https://i.imgur.com/H063BOF.png');
