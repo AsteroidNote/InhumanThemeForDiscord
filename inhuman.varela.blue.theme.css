@@ -15,8 +15,6 @@
 :root {
   --background: url('https://i.imgur.com/H063BOF.png');
   --background-behind-appmount: 8,5,14,0;
-
-  /* 🎨 Blue Accent Colors */
   --accent-color-1: 107,140,253;      
   --accent-color-2: 107,140,253;    
   --link-text: 107,140,253;          
