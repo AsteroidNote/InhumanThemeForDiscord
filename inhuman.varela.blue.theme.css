@@ -15,6 +15,7 @@
 :root {
   --background: url('https://i.imgur.com/H063BOF.png');
   --background-behind-appmount: 8,5,14,0;
+  --background-accent-color-1: 0,0,0,0;
   --accent-color-1: 107,140,253;      
   --accent-color-2: 107,140,253;    
   --link-text: 107,140,253;          
@@ -46,6 +47,7 @@
   --gx-yellow-2: 255, 255, 68;
   --gx-green: 0, 212, 81;
   --gx-green-2: 0, 255, 129;
+  --font-in-accent: 0, 0, 0  ;
   --category-name-transform: unset;
   --chatbox-transparency: 1;
   --chatbox-focused-transparency: 1;
