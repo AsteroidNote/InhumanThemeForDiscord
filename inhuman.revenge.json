@@ -1,0 +1,45 @@
+{
+  "name": "Inhuman Theme",
+  "description": "Just a theme for Revenge.",
+  "authors": [
+    {
+      "name": "asteroidnote",
+      "id": "000000000000000000"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": ["#020304", "#020304"],
+    "BACKGROUND_SECONDARY": ["#000000", "#000000"],
+    "BACKGROUND_SECONDARY_ALT": ["#000000", "#000000"],
+    "BACKGROUND_TERTIARY": ["#000000", "#000000"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#020304", "#020304"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#000000", "#000000"],
+    "TEXT_NORMAL": ["#C9CBCE", "#C9CBCE"],
+    "TEXT_MUTED": ["#72767D", "#72767D"],
+    "TEXT_BRIGHT": ["#FAFDFF", "#FAFDFF"],
+    "INTERACTIVE_NORMAL": ["#C9CBCE", "#C9CBCE"],
+    "INTERACTIVE_HOVER": ["#D4DBE1", "#D4DBE1"],
+    "INTERACTIVE_ACTIVE": ["#FAFDFF", "#FAFDFF"],
+    "INTERACTIVE_MUTED": ["#72767D", "#72767D"],
+    "TEXT_LINK": ["#6B8CFD", "#6B8CFD"],
+    "BUTTON_DANGER_BACKGROUND": ["#B5203F", "#B5203F"],
+    "BUTTON_POSITIVE_BACKGROUND": ["#00D451", "#00D451"]
+  },
+  "rawColors": {
+    "BRAND_500": "#6B8CFD",
+    "PRIMARY_100": "#FAFDFF",
+    "PRIMARY_300": "#C9CBCE",
+    "PRIMARY_400": "#72767D",
+    "PRIMARY_800": "#020304",
+    "PRIMARY_900": "#000000",
+    "RED_400": "#B5203F",
+    "GREEN_400": "#00D451",
+    "YELLOW_400": "#EAEA22"
+  },
+  "background": {
+    "url": "https://i.imgur.com/H063BOF.png",
+    "alpha": 0.5,
+    "blur": 0
+  }
+}
