@@ -1,10 +1,9 @@
 {
   "name": "Inhuman Theme",
-  "description": "Just an Inhuman Theme for Revenge.",
+  "description": "Inhuman theme for Revenge.",
   "authors": [
     {
-      "name": "asteroidnote",
-      "id": "000000000000000000"
+      "name": "asteroidnote"
     }
   ],
   "spec": 3,
@@ -22,7 +21,6 @@
     "BG_MOD_STRONG": ["#00000080", "#00000080"],
     "TEXT_NORMAL": ["#C9CBCE", "#C9CBCE"],
     "TEXT_MUTED": ["#72767D", "#72767D"],
-    "TEXT_BRIGHT": ["#FAFDFF", "#FAFDFF"],
     "INTERACTIVE_NORMAL": ["#C9CBCE", "#C9CBCE"],
     "INTERACTIVE_HOVER": ["#D4DBE1", "#D4DBE1"],
     "INTERACTIVE_ACTIVE": ["#FAFDFF", "#FAFDFF"],
