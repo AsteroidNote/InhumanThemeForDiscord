@@ -65,18 +65,5 @@
     "PLUM_24": "#080808",
     "YELLOW_300": "#f4196f",
     "ORANGE_345": "#f4196f"
-  },
-  "plus": {
-    "version": "0",
-    "iconpack": "rosiecord-plumpy",
-    "icons": {
-      "ic_new_pins": ["#e64553"],
-      "StatusStreaming": ["#593695"],
-      "StatusMobileOnline": ["#23a559"],
-      "StatusIdle": ["#f0b232"],
-      "StatusDND": ["#f23f43"],
-      "StatusOffline": ["#80848e"],
-      "StatusOnline": ["#23a559"]
-    }
   }
 }
