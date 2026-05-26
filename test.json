@@ -22,14 +22,14 @@
       "#ffffff"
     ],
     "INPUT_BACKGROUND": [
-      "#141414",
-      "#141414",
-      "#141414"
+      "#000000",
+      "#000000",
+      "#000000"
     ]
   },
   "background": {
     "url": "https://raw.githubusercontent.com/asteroidnote/InhumanThemeForDiscord/refs/heads/main/3c24gacrpq3b1.jpg",
-    "alpha": 0.5,
+    "alpha": 0.35,
     "blur": 0.75
   },
   "rawColors": {
@@ -50,32 +50,5 @@
     "PLUM_24": "#181818",
     "YELLOW_300": "#f4196f",
     "ORANGE_345": "#f4196f"
-  },
-  "plus": {
-    "version": "0",
-    "iconpack": "rosiecord-plumpy",
-    "icons": {
-      "ic_new_pins": [
-        "#e64553"
-      ],
-      "StatusStreaming": [
-        "#593695"
-      ],
-      "StatusMobileOnline": [
-        "#23a559"
-      ],
-      "StatusIdle": [
-        "#f0b232"
-      ],
-      "StatusDND": [
-        "#f23f43"
-      ],
-      "StatusOffline": [
-        "#80848e"
-      ],
-      "StatusOnline": [
-        "#23a559"
-      ]
-    }
   }
 }
