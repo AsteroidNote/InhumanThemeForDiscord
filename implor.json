@@ -41,39 +41,42 @@
       "#ffffff", "#ffffff", "#ffffff"
     ],
     "INPUT_BACKGROUND": [
-      "#0000004d", "#0000004d", "#0000004d"
+      "#141414", "#141414", "#141414"
     ],
     "BACKGROUND_PRIMARY": [
-      "#00000000", "#00000000", "#00000000"
+      "#000000", "#000000", "#000000"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#561e3a", "#561e3a", "#561e3a"
-    ],
-    "BACKGROUND_MOBILE_SECONDARY": [
-      "#561e3a", "#561e3a", "#561e3a"
+      "#000000", "#000000", "#000000"
     ],
     "BACKGROUND_SECONDARY": [
-      "#561e3a", "#561e3a", "#561e3a"
+      "#080808", "#080808", "#080808"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#561e3a", "#561e3a", "#561e3a"
+      "#0a0a0a", "#0a0a0a", "#0a0a0a"
     ],
     "BACKGROUND_TERTIARY": [
-      "#561e3a", "#561e3a", "#561e3a"
-    ],
-    "BG_BASE_PRIMARY": [
-      "#561e3a", "#561e3a", "#561e3a"
-    ],
-    "BG_BASE_SECONDARY": [
-      "#561e3a", "#561e3a", "#561e3a"
+      "#000000", "#000000", "#000000"
     ],
     "BG_BASE_TERTIARY": [
-      "#561e3a", "#561e3a", "#561e3a"
+      "#000000", "#000000", "#000000"
     ],
     "CHANNEL_TEXT_AREA_DEFAULT": [
-      "#0000004d", "#0000004d", "#0000004d"
+      "#0a0a0a", "#0a0a0a", "#0a0a0a"
     ],
     "TEXT_LINK": [
+      "#f4196f", "#f4196f", "#f4196f"
+    ],
+    "BORDER_FAINT": [
+      "#f4196f", "#f4196f", "#f4196f"
+    ],
+    "BORDER_STRONG": [
+      "#f4196f", "#f4196f", "#f4196f"
+    ],
+    "DIVIDER_STRONG": [
+      "#f4196f", "#f4196f", "#f4196f"
+    ],
+    "DIVIDER_FAINT": [
       "#f4196f", "#f4196f", "#f4196f"
     ]
   },
@@ -93,13 +96,25 @@
     "PLUM_13": "#181818",
     "PLUM_15": "#181818",
     "PLUM_16": "#181818",
-    "PLUM_17": "#561e3a",
-    "PLUM_18": "#561e3a",
-    "PLUM_19": "#561e3a",
-    "PLUM_20": "#561e3a",
-    "PLUM_22": "#561e3a",
-    "PRIMARY_600": "#561e3a",
-    "PRIMARY_630": "#561e3a",
+    "PLUM_17": "#000000",
+    "PLUM_18": "#000000",
+    "PLUM_19": "#080808",
+    "PLUM_20": "#000000",
+    "PLUM_22": "#000000",
+    "PRIMARY_600": "#080808",
+    "PRIMARY_630": "#080808",
+    "PRIMARY_700": "#000000",
+    "PRIMARY_800": "#000000",
+    "PRIMARY_900": "#000000",
+    "PRIMARY_230": "#0a0a0a",
+    "PRIMARY_300": "#000000",
+    "YELLOW_260": "#f4196f",
+    "PLUM_23": "#080808",
+    "PLUM_24": "#080808",
+    "YELLOW_300": "#f4196f",
+    "ORANGE_345": "#f4196f"
+  }
+}    "PRIMARY_630": "#561e3a",
     "PRIMARY_700": "#561e3a",
     "PRIMARY_800": "#561e3a",
     "PRIMARY_900": "#561e3a",
