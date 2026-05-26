@@ -1,0 +1,81 @@
+{
+  "name": "Refuge",
+  "description": "yeah sure",
+  "authors": [
+    {
+      "name": "Merb",
+      "id": "1180228592249090224"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "BACKGROUND_MENTIONED": [
+      "#007bff33"
+    ],
+    "MENTION_BACKGROUND": [
+      "#0094ba"
+    ],
+    "TEXT_MENTION": [
+      "#0094ba"
+    ],
+"TEXT_DEFAULT": [
+      "#ffffff"
+    ],
+    "INPUT_BACKGROUND": [
+      "#141414",
+      "#141414",
+      "#141414"
+    ]
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/asteroidnote/InhumanThemeForDiscord/refs/heads/main/3c24gacrpq3b1.jpg",
+    "alpha": 0.5,
+    "blur": 0.75
+  },
+  "rawColors": {
+    "PLUM 11": "#121212",
+    "PLUM_13": "#181818",
+    "PLUM_15": "#181818",
+    "PLUM_16": "#181818",
+    "PLUM_17": "#141414",
+    "PLUM_18": "#141414",
+    "PLUM_19": "#181818",
+    "PLUM_20": "#121212",
+    "PLUM_22": "#121212",
+    "PRIMARY_700": "#121212",
+    "PRIMARY_230": "#141414",
+    "PRIMARY_300": "#121212",
+    "YELLOW_260": "#007bff",
+    "PLUM_23": "#181818",
+    "PLUM_24": "#181818",
+    "YELLOW_300": "#007bff",
+    "ORANGE_345": "#0094ba"
+  },
+  "plus": {
+    "version": "0",
+    "iconpack": "rosiecord-plumpy",
+    "icons": {
+      "ic_new_pins": [
+        "#e64553"
+      ],
+      "StatusStreaming": [
+        "#7e64fb"
+      ],
+      "StatusMobileOnline": [
+        "#09bd63"
+      ],
+      "StatusIdle": [
+        "#ffd401"
+      ],
+      "StatusDND": [
+        "#ff611a"
+      ],
+      "StatusOffline": [
+        "#015bd5"
+      ],
+      "StatusOnline": [
+        "#09bd63"
+      ]
+    }
+  }
+}
