@@ -41,27 +41,27 @@
       "#ffffff"
     ],
     "INPUT_BACKGROUND": [
-      "#000000",
-      "#000000",
-      "#000000"
+      "#0000004d",
+      "#0000004d",
+      "#0000004d"
     ],
     "BACKGROUND_PRIMARY": [
-      "#000000"
+      "#00000000"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#000000"
+      "#00000000"
     ],
     "BACKGROUND_SECONDARY": [
-      "#080808"
+      "#00000000"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#0a0a0a"
+      "#00000000"
     ],
     "BACKGROUND_TERTIARY": [
-      "#121212"
+      "#00000000"
     ],
     "CHANNEL_TEXT_AREA_DEFAULT": [
-      "#0a0a0a"
+      "#0000004d"
     ],
     "TEXT_LINK": [
       "#f4196f"
@@ -88,13 +88,13 @@
     "PLUM_19": "#080808",
     "PLUM_20": "#000000",
     "PLUM_22": "#000000",
-    "PRIMARY_600": "#080808",
-    "PRIMARY_630": "#080808",
-    "PRIMARY_700": "#000000",
-    "PRIMARY_800": "#000000",
-    "PRIMARY_900": "#000000",
-    "PRIMARY_230": "#0a0a0a",
-    "PRIMARY_300": "#000000",
+    "PRIMARY_600": "#00000000",
+    "PRIMARY_630": "#00000000",
+    "PRIMARY_700": "#00000000",
+    "PRIMARY_800": "#00000000",
+    "PRIMARY_900": "#00000000",
+    "PRIMARY_230": "#0000004d",
+    "PRIMARY_300": "#00000000",
     "YELLOW_260": "#f4196f",
     "PLUM_23": "#080808",
     "PLUM_24": "#080808",
