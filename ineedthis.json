@@ -10,62 +10,25 @@
   "spec": 2,
   "theme": "midnight",
   "semanticColors": {
-    "BACKGROUND_MENTIONED": [
-      "#f4196f33"
-    ],
-    "MENTION_BACKGROUND": [
-      "#f4196f"
-    ],
-    "TEXT_MENTION": [
-      "#f4196f"
-    ],
-    "TEXT_DEFAULT": [
-      "#ffffff"
-    ],
-    "TEXT_NORMAL": [
-      "#ffffff"
-    ],
-    "TEXT_MUTED": [
-      "#a3a6aa"
-    ],
-    "HEADER_PRIMARY": [
-      "#ffffff"
-    ],
-    "HEADER_SECONDARY": [
-      "#b9bbbe"
-    ],
-    "INTERACTIVE_NORMAL": [
-      "#b9bbbe"
-    ],
-    "INTERACTIVE_ACTIVE": [
-      "#ffffff"
-    ],
-    "INPUT_BACKGROUND": [
-      "#0000004d",
-      "#0000004d",
-      "#0000004d"
-    ],
-    "BACKGROUND_PRIMARY": [
-      "#00000000"
-    ],
-    "BACKGROUND_MOBILE_PRIMARY": [
-      "#00000000"
-    ],
-    "BACKGROUND_SECONDARY": [
-      "#00000000"
-    ],
-    "BACKGROUND_SECONDARY_ALT": [
-      "#00000000"
-    ],
-    "BACKGROUND_TERTIARY": [
-      "#00000000"
-    ],
-    "CHANNEL_TEXT_AREA_DEFAULT": [
-      "#0000004d"
-    ],
-    "TEXT_LINK": [
-      "#f4196f"
-    ]
+    "BACKGROUND_MENTIONED": ["#f4196f33"],
+    "MENTION_BACKGROUND": ["#f4196f"],
+    "TEXT_MENTION": ["#f4196f"],
+    "TEXT_DEFAULT": ["#ffffff"],
+    "TEXT_NORMAL": ["#ffffff"],
+    "TEXT_MUTED": ["#a3a6aa"],
+    "HEADER_PRIMARY": ["#ffffff"],
+    "HEADER_SECONDARY": ["#b9bbbe"],
+    "INTERACTIVE_NORMAL": ["#b9bbbe"],
+    "INTERACTIVE_ACTIVE": ["#ffffff"],
+    "INPUT_BACKGROUND": ["rgba(0,0,0,0.3)", "rgba(0,0,0,0.3)", "rgba(0,0,0,0.3)"],
+    "BACKGROUND_PRIMARY": ["transparent"],
+    "BACKGROUND_MOBILE_PRIMARY": ["transparent"],
+    "BACKGROUND_MOBILE_SECONDARY": ["transparent"],
+    "BACKGROUND_SECONDARY": ["transparent"],
+    "BACKGROUND_SECONDARY_ALT": ["transparent"],
+    "BACKGROUND_TERTIARY": ["transparent"],
+    "CHANNEL_TEXT_AREA_DEFAULT": ["rgba(0,0,0,0.3)"],
+    "TEXT_LINK": ["#f4196f"]
   },
   "background": {
     "url": "https://raw.githubusercontent.com/asteroidnote/InhumanThemeForDiscord/refs/heads/main/3c24gacrpq3b1.jpg",
@@ -88,13 +51,13 @@
     "PLUM_19": "#080808",
     "PLUM_20": "#000000",
     "PLUM_22": "#000000",
-    "PRIMARY_600": "#00000000",
-    "PRIMARY_630": "#00000000",
-    "PRIMARY_700": "#00000000",
-    "PRIMARY_800": "#00000000",
-    "PRIMARY_900": "#00000000",
-    "PRIMARY_230": "#0000004d",
-    "PRIMARY_300": "#00000000",
+    "PRIMARY_600": "transparent",
+    "PRIMARY_630": "transparent",
+    "PRIMARY_700": "transparent",
+    "PRIMARY_800": "transparent",
+    "PRIMARY_900": "transparent",
+    "PRIMARY_230": "rgba(0,0,0,0.3)",
+    "PRIMARY_300": "transparent",
     "YELLOW_260": "#f4196f",
     "PLUM_23": "#080808",
     "PLUM_24": "#080808",
