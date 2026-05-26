@@ -3,22 +3,22 @@
   "description": "yeah sure",
   "authors": [
     {
-      "name": "Merb",
+      "name": "Note",
       "id": "1180228592249090224"
     }
   ],
   "spec": 2,
   "semanticColors": {
     "BACKGROUND_MENTIONED": [
-      "#007bff33"
+      "#f4196f33"
     ],
     "MENTION_BACKGROUND": [
-      "#0094ba"
+      "#f4196f"
     ],
     "TEXT_MENTION": [
-      "#0094ba"
+      "#f4196f"
     ],
-"TEXT_DEFAULT": [
+    "TEXT_DEFAULT": [
       "#ffffff"
     ],
     "INPUT_BACKGROUND": [
@@ -45,11 +45,11 @@
     "PRIMARY_700": "#121212",
     "PRIMARY_230": "#141414",
     "PRIMARY_300": "#121212",
-    "YELLOW_260": "#007bff",
+    "YELLOW_260": "#f4196f",
     "PLUM_23": "#181818",
     "PLUM_24": "#181818",
-    "YELLOW_300": "#007bff",
-    "ORANGE_345": "#0094ba"
+    "YELLOW_300": "#f4196f",
+    "ORANGE_345": "#f4196f"
   },
   "plus": {
     "version": "0",
@@ -59,22 +59,22 @@
         "#e64553"
       ],
       "StatusStreaming": [
-        "#7e64fb"
+        "#593695"
       ],
       "StatusMobileOnline": [
-        "#09bd63"
+        "#23a559"
       ],
       "StatusIdle": [
-        "#ffd401"
+        "#f0b232"
       ],
       "StatusDND": [
-        "#ff611a"
+        "#f23f43"
       ],
       "StatusOffline": [
-        "#015bd5"
+        "#80848e"
       ],
       "StatusOnline": [
-        "#09bd63"
+        "#23a559"
       ]
     }
   }
