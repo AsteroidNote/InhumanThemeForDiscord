@@ -10,44 +10,24 @@
   "spec": 2,
   "theme": "dark",
   "semanticColors": {
-    "BACKGROUND_MENTIONED": [
-      "#f4196f33"
-    ],
-    "MENTION_BACKGROUND": [
-      "#f4196f"
-    ],
-    "TEXT_MENTION": [
-      "#f4196f"
-    ],
-    "TEXT_DEFAULT": [
-      "#ffffff"
-    ],
-    "INPUT_BACKGROUND": [
-      "#000000",
-      "#000000",
-      "#000000"
-    ],
-    "BACKGROUND_PRIMARY": [
-      "#000000"
-    ],
-    "BACKGROUND_MOBILE_PRIMARY": [
-      "#000000"
-    ],
-    "BACKGROUND_SECONDARY": [
-      "#080808"
-    ],
-    "BACKGROUND_SECONDARY_ALT": [
-      "#0a0a0a"
-    ],
-    "BACKGROUND_TERTIARY": [
-      "#121212"
-    ],
-    "CHANNEL_TEXT_AREA_DEFAULT": [
-      "#0a0a0a"
-    ],
-    "TEXT_LINK": [
-      "#f4196f"
-    ]
+    "BACKGROUND_MENTIONED": ["#f4196f33"],
+    "MENTION_BACKGROUND": ["#f4196f"],
+    "TEXT_MENTION": ["#f4196f"],
+    "TEXT_DEFAULT": ["#ffffff"],
+    "TEXT_NORMAL": ["#ffffff"],
+    "TEXT_MUTED": ["#a3a6aa"],
+    "HEADER_PRIMARY": ["#ffffff"],
+    "HEADER_SECONDARY": ["#b9bbbe"],
+    "INTERACTIVE_NORMAL": ["#b9bbbe"],
+    "INTERACTIVE_ACTIVE": ["#ffffff"],
+    "INPUT_BACKGROUND": ["#000000", "#000000", "#000000"],
+    "BACKGROUND_PRIMARY": ["#000000"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#000000"],
+    "BACKGROUND_SECONDARY": ["#080808"],
+    "BACKGROUND_SECONDARY_ALT": ["#0a0a0a"],
+    "BACKGROUND_TERTIARY": ["#121212"],
+    "CHANNEL_TEXT_AREA_DEFAULT": ["#0a0a0a"],
+    "TEXT_LINK": ["#f4196f"]
   },
   "background": {
     "url": "https://raw.githubusercontent.com/asteroidnote/InhumanThemeForDiscord/refs/heads/main/3c24gacrpq3b1.jpg",
